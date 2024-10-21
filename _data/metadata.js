@@ -1,5 +1,5 @@
 export default {
-	title: "Bhareth Kachroo Personal Website",
+	title: "Bhareth Kachroo's Personal Website",
 	url: "https://bkachroo.com/",
 	language: "en",
 	description: "I'm an engineer",
