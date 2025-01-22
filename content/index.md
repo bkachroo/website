@@ -30,7 +30,7 @@ We raised a pre-seed and started by developing short and long-term forecasts for
 
 > During this time, I worked part-time as a consultant for UNC/Codetta Bio (multiplexed biomarker measurements) and built the end-to-end CV pipeline for their microarray digital/qPCR device.
 
-At Pharos, we next applied climate and weather data to agriculture. Using TBs of climate simulations, we developed a generative ML model for temp/precip distributions to evalute changes in crop patterns. We had some traction here, but failed to raise a seed round.
+At Pharos, we next applied climate and weather data to agriculture. Using TBs of climate simulations, we developed a generative ML model for temp/precip distributions to evaluate opportunities to change which crops could be grown and systemic risks. We had some traction here, but failed to raise a seed round.
 
 Finally, we pivoted to delivering data-engineering services to engineering/data science teams in infrastructure. I built a cloud data-engineering system that provided realtime access to slices of TBs of high-res weather/climate geodata. However, at this point, we had long run out of money, and had to shut the company.
 
