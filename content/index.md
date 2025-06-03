@@ -7,7 +7,7 @@ const eleventyNavigation = {
 
 # Who am I?
 
-I'm an engineer with 6+ years building AI systems for large-scale imagery data from data-engineering to product
+I'm an engineer with 8 years building AI systems for large-scale imagery data from data-engineering to product
 integration in biomedical, remote sensing, and climate.
 
 ---
