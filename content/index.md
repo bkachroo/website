@@ -30,7 +30,7 @@ We raised a pre-seed and started by developing short and long-term forecasts for
 
 > During this time, I worked part-time as a consultant for UNC/Codetta Bio (multiplexed biomarker measurements) and built the end-to-end CV pipeline for their microarray digital/qPCR device.
 
-At Pharos, we next applied climate and weather data to agriculture. Using TBs of climate simulations, we developed a generative ML model for temp/precip distributions to evaluate opportunities to change which crops could be grown and systemic risks. We had some traction here, but failed to raise a seed round.
+At Pharos, we next applied climate and weather data to agriculture. Using TBs of climate simulations, we developed a generative ML model for temp/precip distributions to evaluate opportunities to change which crops could be grown and systemic risks. We had some traction here, but never really moved beyond a consulting company to a product, and failed to raise a seed round.
 
 Finally, we pivoted to delivering data-engineering services to engineering/data science teams in infrastructure. I built a cloud data-engineering system that provided realtime access to slices of TBs of high-res weather/climate geodata. However, at this point, we had long run out of money, and had to shut the company.
 
@@ -40,12 +40,19 @@ I co-founded another company, [streambatch](https://www.streambatch.io/), to pro
 
 streambatch continues to provide enterprise customers with high-quality near-realtime fused NDVI data.
 
-> Most recently I consulted for Proteowise, a biotech company making high-throughput proteomics devices, where I built an ML CV system for electrophoresis imagery classification & quantification.
+### Consulting: 2024-2025
+
+Most recently I've been consulting on applying ML & AI to hard engineering problems. I consulted for Proteowise, a biotech company making high-throughput proteomics devices, where I built an ML CV system for electrophoresis imagery classification & quantification.
+
+Then I worked with boardy.ai, a company building an automated agent which makes introductions between people in its network. I applied a combination of classic data science, feature engineering, and LLM encodings, to improve the recommendation engine based on past user behaviour and natural language data about the user's backgrounds and desired matches.
+
+I also worked with Diagram Ventures, where I analyzed the construction estimation and quoting workflows for AI-based efficiency improvements. I helped them build a technical strategy and assess the feasibility of combining computer vision and LLMs to read construction plans, using data science to make automated quotes, and doing search to match parts against equipment catalogs.
 
 ---
 
 # Links
 
+- [Writing](https://commonsenseconspiracy.substack.com/)
 - [Linkedin](https://www.linkedin.com/in/bharethkachroo/)
 - [Github](https://github.com/bkachroo)
 
